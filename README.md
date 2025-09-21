@@ -42,7 +42,7 @@ Ce projet permet d'effectuer différentes opérations sur des images de visages 
 
    Le menu propose les scripts suivants :
 
-   - **Comparer un visage** : Compare une photo à une base d'embeddings pour trouver les correspondances. Exemple de dataset pour tester https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset.
+   - **Comparer un visage** : Compare une photo à une base d'embeddings pour trouver les correspondances. Exemple de dataset pour tester https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset. Le fichier Pickle (.pkl) de ce dataset est disponible sur ce repository (All.pk).
    - **Extraire visages (Retina)** : Détecte et extrait les visages d'une image.
    - **Calculer embeddings (Colab)** : Calcule les embeddings pour toutes les images d'un dossier (usage typique sur Google Colab).
    - **Détecter GPU** : Vérifie si un GPU est disponible pour l'accélération.
