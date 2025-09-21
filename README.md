@@ -1,4 +1,4 @@
-# Detection Visages - README
+# 😀 Detection Visages
 
 Ce projet permet d'effectuer différentes opérations sur des images de visages à l'aide de l'intelligence artificielle et de la reconnaissance faciale. Il propose un menu graphique pour lancer facilement chaque script.
 
