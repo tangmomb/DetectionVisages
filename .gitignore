@@ -1,0 +1,6 @@
+venv/
+Celebrities/
+faces/
+__pycache__/
+*.pkl
+*.pyc

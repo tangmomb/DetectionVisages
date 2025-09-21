@@ -1,0 +1,8 @@
+pandas
+numpy
+deepface
+opencv-python
+retinaface
+Pillow
+tqdm
+tensorflow
